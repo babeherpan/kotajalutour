@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "987137872533",
+    "firebase_url": "https://kotajalutour.firebaseio.com",
+    "project_id": "kotajalutour",
+    "storage_bucket": "kotajalutour.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987137872533:android:8bcff680e402dac5",
+        "android_client_info": {
+          "package_name": "com.herpan.kotajalutour"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "987137872533-0a37e589f9ft1qsa9i59avtlfku4imbr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.herpan.kotajalutour",
+            "certificate_hash": "87f98c66f31c8f7b43256d989169cdca9454f14f"
+          }
+        },
+        {
+          "client_id": "987137872533-464m5k166r6nd6oah4bjs1gtnhuka58n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCI_imeKwDEoUznu3fQp0JACcj6PEkwPO0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "987137872533-464m5k166r6nd6oah4bjs1gtnhuka58n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
